@@ -1,0 +1,86 @@
+title: "Airspace for Hugo"
+baseURL: "/"
+languageCode: "en-us"
+theme: "airspace-hugo"
+
+menu:
+
+  header:
+    - weight: 2
+      name: "Work"
+      url: "/work"
+    - weight: 3
+      name: "Blog"
+      url: "/blog"
+    - weight: 4
+      name: "Service"
+      url: "#"
+    - weight: 5
+      name: "Contact"
+      url: "/contact"
+
+  footer:
+    - weight: 1
+      name: "About us"
+      url: "#"
+    - weight: 2
+      name: "Contact us"
+      url: "#"
+    - weight: 3
+      name: "How it works"
+      url: "#"
+    - weight: 4
+      name: "Blog"
+      url: "#"
+    - weight: 5
+      name: "Terms"
+      url: "#"
+
+# The site's parameters
+params:
+
+  date_format: "6 January 2006"
+
+  home: "Home"
+
+  copyright: "Copyright © Design & Developed by Themefisher. All rights reserved."
+
+  slider:
+    enable: true
+    title: "A digital marketing &amp; design agency"
+    subtitle: "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
+
+  wrapper:
+    enable: true
+    title: "About Us"
+    italic: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+    paragraph: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id"
+
+  feature:
+    enable: true
+    title: "We believe in great ideas"
+    content: "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    button:
+      caption: "View Works"
+      url: "#"
+
+  call:
+    enable: true
+    title: "We design delightful digital experiences."
+    paragraph: "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+
+  contact:
+    enable: true
+    form:
+      name: "Your name"
+      email: "Your email"
+      subject: "Your subject"
+      message: "Your message"
+      button: "Send message"
+    box:
+      title: "Stop by for a visit"
+      address: "North Main Street, Brooklyn Australia"
+      email: "Email: contact@mail.com"
+      phone: "Phone: +88 01672 506 744"
+    gmaps:
+      title: "We Also Count in Google Maps"

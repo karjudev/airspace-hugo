@@ -21,6 +21,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav navbar-right">
+                <li><a href="{{ .Site.BaseURL }}">{{ .Site.Params.home }}</a></li>
               {{ range .Site.Menus.header }}
                 <li><a href="{{ .URL }}/">{{ .Name }}</a></li>
               {{ end }}

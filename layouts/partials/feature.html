@@ -7,7 +7,7 @@
       	{{ .Site.Params.feature.content | markdownify }}
       </div>
       {{ with .Site.Params.feature.button }}
-      	<a href="{{ .url }}" class="btn btn-view-works">{{ .text }}</a>
+      	<a href="{{ .url }}" class="btn btn-view-works">{{ .caption }}</a>
       {{ end }}
     </div>
   </div>
