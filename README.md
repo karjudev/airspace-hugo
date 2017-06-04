@@ -5,6 +5,7 @@ This Hugo theme is a port of [ThemeFisher](http://themefisher.com)'s Airspace te
 
 ## Usage
 Create a new Hugo site by typing
+
 ```
   $ hugo new site <SITENAME>
 ```
