@@ -47,8 +47,8 @@ theme = "airspace-hugo"
 [params]
 
   # If you want to remove the copyright text you need a Themefisher license.
-  # This license is offered with a 50% discount for all the Hugo developers.
-  # For informations see https://themefisher.com/products/airspace-free-bootstrap-website-template/
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
   date_format = "6 January 2006"
 
