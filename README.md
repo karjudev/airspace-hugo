@@ -1,5 +1,5 @@
 # _Airspace_ for Hugo
-![screenshot](screenshots/home.png "Home of the website")
+![screenshot](images/screenshot.png "Home of the website")
 
 This Hugo theme is a port of [Themefisher](http://themefisher.com)’s [Airspace – Free Bootstrap Website Template](https://themefisher.com/products/airspace-free-bootstrap-website-template/), inspired by the [Jekyll porting](https://raw.githubusercontent.com/luminousrubyist/airspace-jekyll/) by LuminousRubyist. It is released under Themefisher’s free license, which requires attribution.
 
