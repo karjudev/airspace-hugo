@@ -2,7 +2,7 @@
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
 name = "Airspace Hugo"
-license = "MIT"
+license = "Copyright 2016 Themefisher"
 licenselink = "https://github.com/karju-dev/airspace-hugo/LICENSE.md"
 description = "Hugo porting for the Themefisher's Airspace theme"
 homepage = "http://siteforthistheme.com/"
