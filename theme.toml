@@ -3,16 +3,16 @@
 
 name = "Airspace Hugo"
 license = "Copyright 2016 Themefisher"
-licenselink = "https://github.com/karju-dev/airspace-hugo/LICENSE.md"
+licenselink = "https://github.com/karju-dev/airspace-hugo/blob/master/LICENSE.md"
 description = "Hugo porting for the Themefisher's Airspace theme"
-homepage = "http://siteforthistheme.com/"
-tags = []
-features = []
+homepage = "http://karju-dev.github.io/airspace-hugo"
+tags = ["blog", "company", "portfolio", "projects", "responsive"]
+features = ["blog", "company", "responsive"]
 min_version = 0.19
 
 [author]
   name = "Giacomo Mariani"
-  homepage = ""
+  homepage = "https://karju-dev.github.io"
 
 # If porting an existing theme
 [original]
